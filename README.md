@@ -7,7 +7,7 @@ took a baseline installation of a Linux server and prepared it to host web appli
 	IP Address:54.88.224.29
 	Access port:2200
 	Application URL: http://54.88.224.29.xip.io
-	    Note: Google authentication was recently updated. Their Oauth API is having issues with Virginia           DNS. xip.io is a work around for this issue. 
+	    Note: Google authentication was recently updated. Their Oauth API is having issues with Virginia DNS. xip.io is a work around for this issue. 
 
 ## Steps for Server Configuration
 A summary of software you installed and configuration changes made.
