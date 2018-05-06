@@ -177,6 +177,7 @@ post the following in this file
 In Google OAuth 2.0 client IDs and client secret key:
 
 Add http://54.88.224.29.xip.io to authorized javascript origin.
+
 Add http://54.88.224.29.xip.io/login and http://54.88.224.29.xip.io/gconnect to authorized redirect URL.
 
 ### 13. Restart Apache
