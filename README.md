@@ -1,4 +1,4 @@
-# Udacity Linux Configuration Project
+# Linux Configuration
 
 took a baseline installation of a Linux server and prepared it to host web applications. Secured the server from a number of attack vectors, installed and configured a database server, and deploy one of my existing web applications onto it.
 
